@@ -1,7 +1,7 @@
 {
   "schema_version": "v1",
   "name_for_model": "quantum_docs_db",
-  "name_for_human": "Ares Group Papers",
+  "name_for_human": "My Quantum Papers",
   "description_for_model": "Search through arxiv papers for up to date information.",
   "description_for_human": "Search through your documents.",
   "auth": {
